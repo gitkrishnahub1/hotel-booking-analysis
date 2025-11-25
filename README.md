@@ -3,6 +3,8 @@ Analyzed hotel booking data to find trends in bookings, ADR, and stay costs usin
 Data analysis project using Python (pandas) on a real hotel booking dataset. Explores booking patterns, guest behavior, and key statistics through hands-on data cleaning, aggregation, and reporting.
 
 Skills Demonstrated
+
+
 Data cleaning: handled missing values, dropped irrelevant columns.
 
 Exploratory analysis: most common countries, names, phone area codes, and guest types.
@@ -14,6 +16,8 @@ Extracted business insights: repeat guest percentage, guest requests, largest fa
 Date/time transformation for arrival day-of-week and booking trends.
 
 Tools Used
+
+
 Python (pandas, numpy)
 
 Jupyter Notebook
