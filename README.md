@@ -23,6 +23,8 @@ Python (pandas, numpy)
 Jupyter Notebook
 
 Project Highlights
+
+
 Calculated top 5 countries and last names, highest spenders, most special requests.
 
 Found busiest days, repeat booking rates, and deep-dived on cost metrics.
