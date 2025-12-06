@@ -1,32 +1,14 @@
-# hotel-booking-analysis
-Analyzed hotel booking data to find trends in bookings, ADR, and stay costs using Pandas. Identified guest demographics, repeat stays, and arrival patterns with detailed summaries.
-Data analysis project using Python (pandas) on a real hotel booking dataset. Explores booking patterns, guest behavior, and key statistics through hands-on data cleaning, aggregation, and reporting.
+# 🏨 Hotel Booking Analysis (Pandas EDA)
 
-Skills Demonstrated
+**119K hotel bookings analyzed** | Cleaned missing data | Revenue KPIs | Guest patterns
 
+[![Notebook](https://github.com/gitkrishnahub1/hotel-booking-analysis/blob/main/pandas-hotel_booking-project.ipynb)](https://github.com/gitkrishnahub1/hotel-booking-analysis/blob/main/pandas-hotel_booking-project.ipynb)
 
-Data cleaning: handled missing values, dropped irrelevant columns.
+## Key Insights
+- **$100 ADR** | **3.4 nights avg stay** | **$358 revenue/stay**
+- **Portugal = 40% market** (48K bookings)
+- **3% repeat guests** → 97% one-time customers
+- Dropped 80% missing 'company' data
 
-Exploratory analysis: most common countries, names, phone area codes, and guest types.
-
-Grouped and aggregated booking metrics (e.g., mean ADR, average stay length, total cost).
-
-Extracted business insights: repeat guest percentage, guest requests, largest family bookings.
-
-Date/time transformation for arrival day-of-week and booking trends.
-
-Tools Used
-
-
-Python (pandas, numpy)
-
-Jupyter Notebook
-
-Project Highlights
-
-
-Calculated top 5 countries and last names, highest spenders, most special requests.
-
-Found busiest days, repeat booking rates, and deep-dived on cost metrics.
-
-Demonstrated full EDA workflow and actionable reporting for hospitality analytics.
+## Skills Demonstrated
+Pandas - Data Cleaning - KPI Calculation - EDA - Business Insights
